@@ -1,0 +1,3 @@
+print ("Hola")
+bien = input ("Ingresa un mensaje")
+print ("Bienvenido", nombre, "espero que disfrutes este repositorio")
